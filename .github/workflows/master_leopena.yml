@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'leopena'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_43ce71fb94b0499486ae15a0013ca8a1 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_77243fbd6ad84349b3c57ff465aa0fd2 }}
         package: .
